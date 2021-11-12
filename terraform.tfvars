@@ -1,0 +1,5 @@
+access = "aaabbbbbb"
+secret = "bbbbbbbbbbbb"
+#ami = "ami-042e8287309f5df03"
+#instance="t2.micro"
+#sg="sg-054539ce93d71803f"
